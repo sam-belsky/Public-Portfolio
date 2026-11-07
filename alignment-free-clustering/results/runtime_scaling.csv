@@ -1,9 +1,9 @@
 "method","size","time_ms","mem_mb"
-"Motif anchoring",50,2.337205,0.03125
-"Motif anchoring",100,5.052799,0
-"Motif anchoring",200,13.478299,0
-"Motif anchoring",400,32.879089,0
-"Motif anchoring",800,93.570241,0
+"This method",50,2.337205,0.03125
+"This method",100,5.052799,0
+"This method",200,13.478299,0
+"This method",400,32.879089,0
+"This method",800,93.570241,0
 "Needleman-Wunsch",50,3.618865,0
 "Needleman-Wunsch",100,11.989835,0
 "Needleman-Wunsch",200,48.648017,0
