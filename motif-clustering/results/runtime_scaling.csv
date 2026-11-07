@@ -1,0 +1,16 @@
+"method","size","time_ms","mem_mb"
+"Motif anchoring",50,2.337205,0.03125
+"Motif anchoring",100,5.052799,0
+"Motif anchoring",200,13.478299,0
+"Motif anchoring",400,32.879089,0
+"Motif anchoring",800,93.570241,0
+"Needleman-Wunsch",50,3.618865,0
+"Needleman-Wunsch",100,11.989835,0
+"Needleman-Wunsch",200,48.648017,0
+"Needleman-Wunsch",400,196.38221,0
+"Needleman-Wunsch",800,796.839961,0
+"Smith-Waterman",50,3.995327,0
+"Smith-Waterman",100,12.694338,0
+"Smith-Waterman",200,51.190919,0
+"Smith-Waterman",400,206.96349,0
+"Smith-Waterman",800,838.090758,0

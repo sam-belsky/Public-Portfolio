@@ -1,0 +1,64 @@
+item,species,metric,value,note
+local energy model,foldgen,mem,0.9998,"ratio without/with; 95% CI [1.00, 1.00] - NOT RESOLVED, CI spans 1x"
+local energy model,foldgen,rt,2.856,"ratio without/with; 95% CI [1.90, 4.37]"
+local energy model,metastable,mem,0.9858,"ratio without/with; 95% CI [0.97, 1.00]"
+local energy model,metastable,rt,0.9987,"ratio without/with; 95% CI [0.90, 1.10] - NOT RESOLVED, CI spans 1x"
+local energy model,polysome,mem,1.0055,"ratio without/with; 95% CI [0.96, 1.07] - NOT RESOLVED, CI spans 1x"
+local energy model,polysome,rt,1.0608,"ratio without/with; 95% CI [0.71, 1.64] - NOT RESOLVED, CI spans 1x"
+unpublished optimization,foldgen,mem,1.285,"ratio without/with; 95% CI [1.28, 1.29]"
+unpublished optimization,foldgen,rt,7.1537,"ratio without/with; 95% CI [4.53, 10.45]"
+unpublished optimization,foldgen,work,5.7048,"ratio without/with; 95% CI [3.77, 8.05]"
+unpublished optimization,metastable,mem,1.0613,"ratio without/with; 95% CI [1.02, 1.10]"
+unpublished optimization,metastable,rt,3.2085,"ratio without/with; 95% CI [2.52, 4.17]"
+unpublished optimization,metastable,work,5.1247,"ratio without/with; 95% CI [3.87, 6.81]"
+unpublished optimization,polysome,mem,1.2477,"ratio without/with; 95% CI [1.13, 1.43]"
+unpublished optimization,polysome,rt,3.5904,"ratio without/with; 95% CI [2.59, 4.98]"
+unpublished optimization,polysome,work,6.0523,"ratio without/with; 95% CI [4.22, 8.47]"
+reverse-reaction energy,foldgen,mem,0.9999,"ratio without/with; 95% CI [1.00, 1.00] - NOT RESOLVED, CI spans 1x"
+reverse-reaction energy,foldgen,rt,0.9376,"ratio without/with; 95% CI [0.52, 1.79] - NOT RESOLVED, CI spans 1x"
+reverse-reaction energy,foldgen,work,0.9557,"ratio without/with; 95% CI [0.57, 1.68] - NOT RESOLVED, CI spans 1x"
+reverse-reaction energy,metastable,mem,0.9839,"ratio without/with; 95% CI [0.96, 1.01] - NOT RESOLVED, CI spans 1x"
+reverse-reaction energy,metastable,rt,0.8312,"ratio without/with; 95% CI [0.63, 1.03] - NOT RESOLVED, CI spans 1x"
+reverse-reaction energy,metastable,work,0.7348,"ratio without/with; 95% CI [0.46, 1.10] - NOT RESOLVED, CI spans 1x"
+reverse-reaction energy,polysome,mem,1.0229,"ratio without/with; 95% CI [0.99, 1.06] - NOT RESOLVED, CI spans 1x"
+reverse-reaction energy,polysome,rt,1.0214,"ratio without/with; 95% CI [0.73, 1.41] - NOT RESOLVED, CI spans 1x"
+reverse-reaction energy,polysome,work,1.0316,"ratio without/with; 95% CI [0.67, 1.57] - NOT RESOLVED, CI spans 1x"
+species / glide reuse,foldgen,mem,0.9999,"ratio without/with; 95% CI [1.00, 1.00] - NOT RESOLVED, CI spans 1x"
+species / glide reuse,foldgen,rt,1.076,"ratio without/with; 95% CI [0.74, 1.80] - NOT RESOLVED, CI spans 1x"
+species / glide reuse,foldgen,work,1.0593,"ratio without/with; 95% CI [0.78, 1.60] - NOT RESOLVED, CI spans 1x"
+species / glide reuse,metastable,mem,1.0179,"ratio without/with; 95% CI [1.00, 1.04] - NOT RESOLVED, CI spans 1x"
+species / glide reuse,metastable,rt,1.1897,"ratio without/with; 95% CI [1.01, 1.48]"
+species / glide reuse,metastable,work,1.3429,"ratio without/with; 95% CI [1.02, 1.87]"
+species / glide reuse,polysome,mem,0.9276,"ratio without/with; 95% CI [0.82, 1.00] - NOT RESOLVED, CI spans 1x"
+species / glide reuse,polysome,rt,0.8747,"ratio without/with; 95% CI [0.46, 1.42] - NOT RESOLVED, CI spans 1x"
+species / glide reuse,polysome,work,0.9168,"ratio without/with; 95% CI [0.45, 1.57] - NOT RESOLVED, CI spans 1x"
+tree surgery,foldgen,mem,1.0193,"ratio without/with; 95% CI [1.01, 1.02]"
+tree surgery,foldgen,rt,14.0058,"ratio without/with; 95% CI [9.59, 19.81]"
+tree surgery,foldgen,work,12.2269,"ratio without/with; 95% CI [8.74, 16.94]"
+tree surgery,metastable,mem,1.6723,"ratio without/with; 95% CI [1.54, 1.84]"
+tree surgery,metastable,rt,39.049,"ratio without/with; 95% CI [29.10, 51.77]"
+tree surgery,metastable,work,65.573,"ratio without/with; 95% CI [43.36, 96.40]"
+tree surgery,polysome,mem,3.9689,"ratio without/with; 95% CI [3.27, 4.89]"
+tree surgery,polysome,rt,77.6764,"ratio without/with; 95% CI [43.61, 135.49]"
+tree surgery,polysome,work,132.0308,"ratio without/with; 95% CI [69.95, 244.70]"
+HEADLINE wall/simulated,foldgen,ratio,1.3276,"event-capped runs, ~5 simulated s - a rate over the opening phase"
+HEADLINE wall/simulated,metastable,ratio,0.1603,"event-capped runs, ~5 simulated s - a rate over the opening phase"
+HEADLINE wall/simulated,polysome,ratio,0.3573,"event-capped runs, ~5 simulated s - a rate over the opening phase"
+NET estimate (all on),foldgen,time,288.687,product of all 5 measured factors (3 of them resolved) - not an end-to-end run
+NET conservative (resolved only),foldgen,time,286.152,unresolved factors contribute 1.0 - a floor under the estimate
+NET estimate (all on),foldgen,work,70.615,product of all 4 measured factors (2 of them resolved) - not an end-to-end run
+NET conservative (resolved only),foldgen,work,69.752,unresolved factors contribute 1.0 - a floor under the estimate
+NET estimate (all on),foldgen,memory,1.309,product of all 5 measured factors (2 of them resolved) - not an end-to-end run
+NET conservative (resolved only),foldgen,memory,1.31,unresolved factors contribute 1.0 - a floor under the estimate
+NET estimate (all on),metastable,time,123.734,product of all 5 measured factors (3 of them resolved) - not an end-to-end run
+NET conservative (resolved only),metastable,time,149.056,unresolved factors contribute 1.0 - a floor under the estimate
+NET estimate (all on),metastable,work,331.594,product of all 4 measured factors (3 of them resolved) - not an end-to-end run
+NET conservative (resolved only),metastable,work,451.271,unresolved factors contribute 1.0 - a floor under the estimate
+NET estimate (all on),metastable,memory,1.752,product of all 5 measured factors (3 of them resolved) - not an end-to-end run
+NET conservative (resolved only),metastable,memory,1.75,unresolved factors contribute 1.0 - a floor under the estimate
+NET estimate (all on),polysome,time,264.314,product of all 5 measured factors (2 of them resolved) - not an end-to-end run
+NET conservative (resolved only),polysome,time,278.889,unresolved factors contribute 1.0 - a floor under the estimate
+NET estimate (all on),polysome,work,755.756,product of all 4 measured factors (2 of them resolved) - not an end-to-end run
+NET conservative (resolved only),polysome,work,799.09,unresolved factors contribute 1.0 - a floor under the estimate
+NET estimate (all on),polysome,memory,4.725,product of all 5 measured factors (2 of them resolved) - not an end-to-end run
+NET conservative (resolved only),polysome,memory,4.952,unresolved factors contribute 1.0 - a floor under the estimate
